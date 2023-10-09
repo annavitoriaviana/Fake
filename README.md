@@ -1,2 +1,3 @@
 # FakeNews 
-Testando projeto apara trabalaho.
+Testando projeto para um trabalho.
+
